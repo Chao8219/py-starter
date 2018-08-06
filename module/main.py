@@ -1,10 +1,11 @@
 from kivy.app import App
-from kivy.uix.button import Button
+from kivy.uix.button import Button as Bt
 
 
 class TestApp(App):
     def build(self):
-        return Button(text='Hello World')
+        return Bt(text='Hello World')
 
 
-TestApp().run()
+if __name__ == '__main__':
+    TestApp().run()

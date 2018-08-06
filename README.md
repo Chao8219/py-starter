@@ -50,3 +50,8 @@ To install packages in this environment:
 4. After step 3, you should check the package with `pip list`. If the "example_package" shows up, congratulation! You made it!
 
 More details could be found [here](https://stackoverflow.com/questions/21240653/how-to-install-a-package-inside-virtualenv).
+
+# To-do List
+
+[x] setup virtual environment
+[ ] 

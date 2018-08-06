@@ -9,6 +9,10 @@ Also, this project is for designing the RPG game as well. So you may see some co
 
 The structure of this project follows [this](https://airbrake.io/blog/python/python-best-practices).
 
+# Basic Rules for Naming
+
+1. Commit message should be in format of "noun" + "verb past tense", all in lower-case unless specific words needed, ie., "README updated".
+
 # Function of __init__.py
 
 Quote from [here](https://docs.python.org/3/tutorial/modules.html#packages)
@@ -45,7 +49,7 @@ To install packages in this environment:
 
 2. Double check your pip version `pip --version`, and python version `python --version`. Make sure you are using the one you want to use.
 
-3. Use `pip install example_package`, remember do not add `sudo` which would install globally. 
+3. Use `pip install example_package`, remember do not add `sudo` which would install package globally. 
 
 4. After step 3, you should check the package with `pip list`. If the "example_package" shows up, congratulation! You made it!
 
@@ -53,5 +57,7 @@ More details could be found [here](https://stackoverflow.com/questions/21240653/
 
 # To-do List
 
-[x] setup virtual environment
-[ ] 
+- [x] setup the PyCharm interpreter correctly
+- [x] setup virtual environment
+- [ ] import label and text widget in GUI
+- [ ] make table of content for README at the beginning

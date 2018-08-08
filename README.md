@@ -11,23 +11,25 @@ The structure of this project follows [this](https://airbrake.io/blog/python/pyt
 
 # Contents
 
-1. [Basic Rules for Naming](#basic-rules-for-naming)
+1. [Rules for Naming](#rules-for-naming)
 
-2. [Function of __init__.py](function-of-initpy)
+2. [Function of Special Method](function-of-special-method)
 
-3. [No More TK](#no-more-tk)
+3. [GUI](#gui)
 
 4. [Virtual Environment](#virtual-environment)
 
 5. [To-do List](#to-do-list)
 
-# Basic Rules for Naming
+# Rules for Naming
 
 1. Commit message should be in format of "noun" + "verb past tense", all in lower-case unless specific words needed, ie., "README updated".
 
 [back to top](#contents)
 
-# Function of __init__.py
+# Function of Special Method
+
+## __init__.py
 
 Quote from [here](https://docs.python.org/3/tutorial/modules.html#packages)
 
@@ -41,9 +43,17 @@ Therefore, we can use an empty file as the __init__.py at each sub-directory.
 
 [back to top](#contents)
 
-# No More TK
+# GUI
+
+## Tkinter
+
+For this project, tkinter is not in use anymore.
 
 The tkinter is simple to use, but not quite ideal since it seems not maintained any more.
+
+## Kivy
+
+The current code is based on Kivy that is installed inside virtual environment.
 
 [back to top](#contents)
 

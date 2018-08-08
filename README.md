@@ -13,7 +13,7 @@ The structure of this project follows [this](https://airbrake.io/blog/python/pyt
 
 1. [Rules for Naming](#rules-for-naming)
 
-2. [Function of Special Method](function-of-special-method)
+2. [Special Methods](#special-method)
 
 3. [GUI](#gui)
 
@@ -27,7 +27,7 @@ The structure of this project follows [this](https://airbrake.io/blog/python/pyt
 
 [back to top](#contents)
 
-# Function of Special Method
+# Special Methods
 
 ## __init__.py
 

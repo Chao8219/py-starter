@@ -9,9 +9,23 @@ Also, this project is for designing the RPG game as well. So you may see some co
 
 The structure of this project follows [this](https://airbrake.io/blog/python/python-best-practices).
 
+# Contents
+
+1. [Basic Rules for Naming](#basic-rules-for-naming)
+
+2. [Function of __init__.py](function-of-initpy)
+
+3. [No More TK](#no-more-tk)
+
+4. [Virtual Environment](#virtual-environment)
+
+5. [To-do List](#to-do-list)
+
 # Basic Rules for Naming
 
 1. Commit message should be in format of "noun" + "verb past tense", all in lower-case unless specific words needed, ie., "README updated".
+
+[back to top](#contents)
 
 # Function of __init__.py
 
@@ -25,9 +39,13 @@ Quote from [here](https://docs.python.org/3/tutorial/modules.html#packages)
 
 Therefore, we can use an empty file as the __init__.py at each sub-directory.
 
+[back to top](#contents)
+
 # No More TK
 
 The tkinter is simple to use, but not quite ideal since it seems not maintained any more.
+
+[back to top](#contents)
 
 # Virtual Environment
 
@@ -55,9 +73,13 @@ To install packages in this environment:
 
 More details could be found [here](https://stackoverflow.com/questions/21240653/how-to-install-a-package-inside-virtualenv).
 
+[back to top](#contents)
+
 # To-do List
 
 - [x] setup the PyCharm interpreter correctly
 - [x] setup virtual environment
 - [ ] import label and text widget in GUI
-- [ ] make table of content for README at the beginning
+- [x] make table of content for README at the beginning
+
+[back to top](#contents)

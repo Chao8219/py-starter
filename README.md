@@ -11,7 +11,7 @@ The structure of this project follows [this](https://airbrake.io/blog/python/pyt
 
 # Contents
 
-1. [Rules for Naming](#rules-for-naming)
+1. [Naming Rules](#naming-rules)
 
 2. [Special Methods](#special-method)
 
@@ -21,7 +21,7 @@ The structure of this project follows [this](https://airbrake.io/blog/python/pyt
 
 5. [To-do List](#to-do-list)
 
-# Rules for Naming
+# Naming Rules
 
 1. Commit message should be in format of "noun" + "verb past tense", all in lower-case unless specific words needed, ie., "README updated".
 

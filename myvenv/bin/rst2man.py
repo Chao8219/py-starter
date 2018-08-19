@@ -1,4 +1,4 @@
-#!/Users/apple/Documents/GitHub/py_starter/myvenv/bin/python3
+#!/Users/apple/Documents/GitHub/py-starter/myvenv/bin/python
 
 # Author: 
 # Contact: grubert@users.sf.net

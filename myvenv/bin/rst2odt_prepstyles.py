@@ -1,4 +1,4 @@
-#!/Users/apple/Documents/GitHub/py_starter/myvenv/bin/python3
+#!/Users/apple/Documents/GitHub/py-starter/myvenv/bin/python
 
 # $Id: rst2odt_prepstyles.py 5839 2009-01-07 19:09:28Z dkuhlman $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>

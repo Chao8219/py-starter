@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/apple/Documents/GitHub/py_starter/myvenv"
+VIRTUAL_ENV="/Users/apple/Documents/GitHub/py-starter/myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

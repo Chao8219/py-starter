@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mainframe',['MainFrame',['../classmodule_1_1main__tkinter_1_1_main_frame.html',1,'module::main_tkinter']]]
+  ['helloworld',['HelloWorld',['../classmodule_1_1main_1_1_hello_world.html',1,'module::main']]]
 ];

@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/apple/Documents/GitHub/py_starter/myvenv"
+set -gx VIRTUAL_ENV "/Users/apple/Documents/GitHub/py-starter/myvenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

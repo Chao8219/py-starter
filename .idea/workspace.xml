@@ -2,101 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c13bc9-ff6d-4e4f-b065-6f7387e5f86b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/py-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py-starter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Doxyfile" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Doxyfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/annotated.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/functions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/functions_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/functions_func.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/hierarchy.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/hierarchy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/all_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/all_0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/all_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/all_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/all_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/all_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/all_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/all_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/classes_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/classes_0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/classes_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/classes_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/classes_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/classes_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/functions_0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/functions_0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/search/searchdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/search/searchdata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/annotated.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main_1_1_test_app.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main_1_1_test_app.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main_1_1_test_app.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main__tkinter_1_1_main_frame.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main__tkinter_1_1_main_frame.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main__tkinter_1_1_main_frame.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main__tkinter_1_1_script_frame.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main__tkinter_1_1_script_frame.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/classmodule_1_1main__tkinter_1_1_script_frame.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/doxygen.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/hierarchy.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/logo_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/latex/refman.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/module/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/activate.csh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/activate.fish" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/chardetect" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/chardetect" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/easy_install" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/easy_install-3.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/garden" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/garden" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/pip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/pip3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/pip3.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/pygmentize" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/pygmentize" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2html.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2html.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2html4.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2html4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2html5.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2html5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2latex.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2latex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2man.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2man.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2odt.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2odt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2odt_prepstyles.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2odt_prepstyles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2pseudoxml.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2pseudoxml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2s5.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2s5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2xetex.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2xetex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rst2xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rst2xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/bin/rstpep2html.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/bin/rstpep2html.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/Pygments-2.2.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/Pygments-2.2.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi-2018.4.16.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi-2018.4.16.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi-2018.4.16.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi-2018.4.16.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi-2018.4.16.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi-2018.4.16.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi-2018.4.16.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi-2018.4.16.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/certifi/cacert.pem" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pip-18.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pip-18.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pkg_resources/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pkg_resources/_vendor/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pkg_resources/_vendor/appdirs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pkg_resources/py31compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/pkg_resources/py31compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools-40.0.0.dist-info/zip-safe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/bdist_egg.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/easy_install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/egg_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/egg_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/register.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/command/upload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/extern/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/msvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/msvc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/pep425tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/setuptools/pep425tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,11 +16,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-              <folding>
-                <element signature="e#149#160#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -141,6 +44,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,7 +66,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,13 +123,13 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32935917" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32935917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -242,11 +145,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/module/main.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/main.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding>
-            <element signature="e#149#160#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -285,13 +192,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/module/main_tkinter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="e#149#160#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>

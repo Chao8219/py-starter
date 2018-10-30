@@ -9,6 +9,22 @@ Also, this project is for designing the RPG game as well. So you may see some co
 
 The structure of this project follows [this](https://airbrake.io/blog/python/python-best-practices).
 
+
+===========================
+
+Update:
+
+The uploaded venv is removed and the new python environment is based on conda environment. The reason why I don't use virtual environment is the kivy doesn't support well on `pip install kivy` on Ubuntu OS. The recommanded way to do that is to use conda environment as follows:
+
+```
+conda install kivy -c conda-forge
+```
+
+Although kivy could be installed successfully in conda env, jupyter notebook still could not import the module directly. It seems the kivy is actually using both python and gcc.
+
+===========================
+
+
 # Contents
 
 1. [Naming Rules](#naming-rules)
